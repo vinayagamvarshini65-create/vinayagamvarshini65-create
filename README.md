@@ -29,19 +29,19 @@ My journey involves continuous learning, building academic projects, and explori
 ### 📂 Machine Learning Algorithm Showcase
 I have implemented and deployed the following machine learning algorithms to demonstrate my understanding of model architecture and evaluation.
 
-| Algorithm Category | Project Link (Live App) | Concept Covered |
-| :--- | :--- | :--- |
-| **Regression** | [🚀 Linear Regression](https://linearregression-gafzgkvebcz6vhjfm5tcaq.streamlit.app/) | Continuous Value Prediction |
-| **Classification** | [🚀 Logistic Regression](https://logisticregression-ewymvlk566b4nhhudkvtpb.streamlit.app/) | Binary Classification |
-| **Classification** | [🚀 Naive Bayes](https://naviebayes-jj9mxchwkf4hiwgjnpyyxy.streamlit.app/#titanic-survival-prediction) | Probabilistic Modeling |
-| **Classification** | [🚀 KNN](https://l52k2tzauedfazemuvcuyk.streamlit.app/) | Instance-based Learning |
-| **Decision Trees** | [🚀 Decision Tree](https://decisiontree-o5ujxkkzrhvhri66qtr4bs.streamlit.app/) | Non-linear Classification |
-| **Ensemble** | [🚀 Random Forest](https://randomforest-heqbpxbd6wjem4hc6hxrma.streamlit.app/) | Bagging & Feature Randomness |
-| **Ensemble** | [🚀 RF Classifier](https://randomforestclassifier-bepzpana4wbcqjawcjc8mr.streamlit.app/) | Robust Classification |
-| **Clustering** | [🚀 K-Means](https://k-means-fjqgxi56tkd9rgussgtg4k.streamlit.app/) | Centroid-based Clustering |
-| **Clustering** | [🚀 Hierarchical](https://hierarchicalclustering-iqwvay4ffhdnrorb3guxrr.streamlit.app/) | Agglomerative Clustering |
-| **Clustering** | [🚀 DBSCAN](https://dbscan-8yvimnogng8mgwtzgzjv29.streamlit.app/) | Density-based Clustering |
-| **Evaluation** | [🚀 Cross Validation](https://crossvalidation-njqkzg46x8u2rnyd2tfiqy.streamlit.app/) | Model Generalization |
+| Algorithm | Live Demo (Streamlit) | Source Code (GitHub) | Concept |
+| :--- | :--- | :--- | :--- |
+| **Linear Regression** | [🚀 Live App](https://linearregression-gafzgkvebcz6vhjfm5tcaq.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Linear_Regression) | Continuous Prediction |
+| **Logistic Regression**| [🚀 Live App](https://logisticregression-ewymvlk566b4nhhudkvtpb.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Logistic_Regression) | Binary Classification |
+| **Naive Bayes** | [🚀 Live App](https://naviebayes-jj9mxchwkf4hiwgjnpyyxy.streamlit.app/#titanic-survival-prediction) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Navie_bayes) | Probabilistic Modeling |
+| **KNN** | [🚀 Live App](https://l52k2tzauedfazemuvcuyk.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/KNN) | Instance-based Learning |
+| **Decision Tree** | [🚀 Live App](https://decisiontree-o5ujxkkzrhvhri66qtr4bs.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Decision_Tree) | Tree-based Logic |
+| **Random Forest** | [🚀 Live App](https://randomforest-heqbpxbd6wjem4hc6hxrma.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Random_Forest) | Ensemble Learning |
+| **RF Classifier** | [🚀 Live App](https://randomforestclassifier-bepzpana4wbcqjawcjc8mr.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Random_Forest_Classifier) | Robust Classification |
+| **K-Means** | [🚀 Live App](https://k-means-fjqgxi56tkd9rgussgtg4k.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/K-means) | Centroid Clustering |
+| **Hierarchical** | [🚀 Live App](https://hierarchicalclustering-iqwvay4ffhdnrorb3guxrr.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Hierarchical_Clustering) | Linkage-based Clustering |
+| **DBSCAN** | [🚀 Live App](https://dbscan-8yvimnogng8mgwtzgzjv29.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/DBSCAN) | Density Clustering |
+| **Cross Validation** | [🚀 Live App](https://crossvalidation-njqkzg46x8u2rnyd2tfiqy.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Cross_validation) | Model Evaluation |
 
 #### **Web Development**
 * **[LilModeHub](https://github.com/vinayagamvarshini65-create/LilModeHub)** * *A sleek web project built using **HTML5, CSS3, and JavaScript**. This project showcases my ability to create responsive layouts and interactive user experiences.*
