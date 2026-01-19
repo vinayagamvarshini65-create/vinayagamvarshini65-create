@@ -1,4 +1,4 @@
-# Hello 👋 I'm Varshini V.
+# Hello 👋 I'm Varshini.D
 
 ### About Me
 I am a dedicated **Student** with a strong passion for **Data Science** and **Software Development**. I am focused on mastering Python and its applications in Machine Learning to solve real-world problems.
