@@ -43,6 +43,8 @@ I have implemented and deployed the following machine learning algorithms to dem
 | **DBSCAN** | [🚀 Live App](https://dbscan-8yvimnogng8mgwtzgzjv29.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/DBSCAN) | Density Clustering |
 | **Cross Validation** | [🚀 Live App](https://crossvalidation-njqkzg46x8u2rnyd2tfiqy.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Cross_validation) | Model Evaluation |
 | **Supervised Learning** | [🚀 Live App](https://supervisedmlalgorithms-2cci4hjjqbrekfrhkgm2jh.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Supervised_ML_Algorithms) | Supervised Machine Learning |
+| **Unsupervised Learning** | [🚀 Live App](https://unsupervisedmlalgorithms-uwewm4mbwmmmxwsuabsxkq.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Unsupervised_ML_Algorithms) | Unsupervised Machine Learning |
+
 
 
 #### **Web Development**
