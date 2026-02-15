@@ -42,6 +42,8 @@ I have implemented and deployed the following machine learning algorithms to dem
 | **Hierarchical** | [🚀 Live App](https://hierarchicalclustering-iqwvay4ffhdnrorb3guxrr.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Hierarchical_Clustering) | Linkage-based Clustering |
 | **DBSCAN** | [🚀 Live App](https://dbscan-8yvimnogng8mgwtzgzjv29.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/DBSCAN) | Density Clustering |
 | **Cross Validation** | [🚀 Live App](https://crossvalidation-njqkzg46x8u2rnyd2tfiqy.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Cross_validation) | Model Evaluation |
+| **Supervised Learning** | [🚀 Live App](https://supervisedmlalgorithms-2cci4hjjqbrekfrhkgm2jh.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Supervised_ML_Algorithms) | Supervised Machine Learning |
+
 
 #### **Web Development**
 * **[LilModeHub](https://github.com/vinayagamvarshini65-create/LilModeHub)** * *A sleek web project built using **HTML5, CSS3, and JavaScript**. This project showcases my ability to create responsive layouts and interactive user experiences.*
