@@ -1,13 +1,13 @@
 # Hello 👋 I'm Varshini.D
 
 ### About Me
-I am a dedicated **Student** with a strong passion for **Data Science** and **Software Development**. I am focused on mastering Python and its applications in Machine Learning to solve real-world problems.
+I am a dedicated student with a strong passion for **Data Science** and **Data Analytics**. I am focused on mastering Python and its applications in Machine Learning and Data Analysis to solve real-world problems.
 
 My journey involves continuous learning, building academic projects, and exploring how technology can simplify complex tasks. I believe in the power of curiosity and consistent practice to build a solid foundation in tech.
 
 📍 Coimbatore, Tamil Nadu, India  
 🎓 Rathinam Technical Campus  
-🎯 **Areas of Interest:** Data Science, Machine Learning, Web Development, Python Programming
+🎯 **Areas of Interest:** Data Science, Machine Learning, Python Programming
 
 ---
 
@@ -17,9 +17,17 @@ My journey involves continuous learning, building academic projects, and explori
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
