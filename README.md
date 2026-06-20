@@ -36,30 +36,59 @@ My journey involves continuous learning, building academic projects, and explori
 
 ### 📂 Featured Projects
 
-#### **Data Science & Machine Learning**
-### 📂 Machine Learning Algorithm Showcase
-I have implemented and deployed the following machine learning algorithms to demonstrate my understanding of model architecture and evaluation.
+#### **Data Science**
+### 📂 Machine Learning Portfolio
+Hands-on implementations of machine learning algorithms focused on prediction, classification, clustering, and model performance analysis.
 
-| Algorithm | Live Demo (Streamlit) | Source Code (GitHub) | Concept |
-| :--- | :--- | :--- | :--- |
-| **Linear Regression** | [🚀 Live App](https://linearregression-gafzgkvebcz6vhjfm5tcaq.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Linear_Regression) | Continuous Prediction |
-| **Logistic Regression**| [🚀 Live App](https://logisticregression-ewymvlk566b4nhhudkvtpb.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Logistic_Regression) | Binary Classification |
-| **Naive Bayes** | [🚀 Live App](https://naviebayes-jj9mxchwkf4hiwgjnpyyxy.streamlit.app/#titanic-survival-prediction) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Navie_bayes) | Probabilistic Modeling |
-| **KNN** | [🚀 Live App](https://l52k2tzauedfazemuvcuyk.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/KNN) | Instance-based Learning |
-| **Decision Tree** | [🚀 Live App](https://decisiontree-o5ujxkkzrhvhri66qtr4bs.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Decision_Tree) | Tree-based Logic |
-| **Random Forest** | [🚀 Live App](https://randomforest-heqbpxbd6wjem4hc6hxrma.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Random_Forest) | Ensemble Learning |
-| **RF Classifier** | [🚀 Live App](https://randomforestclassifier-bepzpana4wbcqjawcjc8mr.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Random_Forest_Classifier) | Robust Classification |
-| **K-Means** | [🚀 Live App](https://k-means-fjqgxi56tkd9rgussgtg4k.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/K-means) | Centroid Clustering |
-| **Hierarchical** | [🚀 Live App](https://hierarchicalclustering-iqwvay4ffhdnrorb3guxrr.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Hierarchical_Clustering) | Linkage-based Clustering |
-| **DBSCAN** | [🚀 Live App](https://dbscan-8yvimnogng8mgwtzgzjv29.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/DBSCAN) | Density Clustering |
-| **Cross Validation** | [🚀 Live App](https://crossvalidation-njqkzg46x8u2rnyd2tfiqy.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Cross_validation) | Model Evaluation |
-| **Supervised Learning** | [🚀 Live App](https://supervisedmlalgorithms-2cci4hjjqbrekfrhkgm2jh.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Supervised_ML_Algorithms) | Supervised Machine Learning |
-| **Unsupervised Learning** | [🚀 Live App](https://unsupervisedmlalgorithms-uwewm4mbwmmmxwsuabsxkq.streamlit.app/) | [📁 Repo](https://github.com/vinayagamvarshini65-create/Unsupervised_ML_Algorithms) | Unsupervised Machine Learning |
+### 🎯 Supervised Machine Learning Algorithms
+Explore various supervised learning algorithms with interactive demonstrations and source code.
 
+🚀 **Live Demo:**  
+https://supervisedmlalgorithms-2cci4hjjqbrekfrhkgm2jh.streamlit.app/
 
+📂 **Source Code:**  
+https://github.com/vinayagamvarshini65-create/Supervised_ML_Algorithms
 
-#### **Web Development**
-* **[LilModeHub](https://github.com/vinayagamvarshini65-create/LilModeHub)** * *A sleek web project built using **HTML5, CSS3, and JavaScript**. This project showcases my ability to create responsive layouts and interactive user experiences.*
+**Topics Covered:**  
+Linear Regression • Logistic Regression • KNN • Naive Bayes • Decision Tree • Random Forest • Cross Validation
+
+---
+
+### 🔍 Unsupervised Machine Learning Algorithms
+Hands-on implementations of clustering and unsupervised learning techniques.
+
+🚀 **Live Demo:**  
+https://unsupervisedmlalgorithms-uwewm4mbwmmmxwsuabsxkq.streamlit.app/
+
+📂 **Source Code:**  
+https://github.com/vinayagamvarshini65-create/Unsupervised_ML_Algorithms
+
+**Topics Covered:**  
+K-Means • Hierarchical Clustering • DBSCAN
+
+---
+
+## 🧠 Deep Learning Portfolio
+
+Leveraging Convolutional Neural Networks (CNNs) and Computer Vision to develop intelligent gesture recognition systems for enhanced accessibility and communication.
+
+### 🤟 ASL Digit Recognition System
+A Deep Learning project that recognizes American Sign Language (ASL) digit gestures using Computer Vision and Convolutional Neural Networks (CNN).
+
+🚀 **Live Demo:**  
+https://asl-digit-fpheteafywnw7xy22ylaxy.streamlit.app/
+
+📂 **Source Code:**  
+https://github.com/vinayagamvarshini65-create/ASL-Digit
+
+**Technologies:**  
+Python • TensorFlow • Keras • OpenCV • CNN • NumPy
+
+**Key Features:**  
+✔️ ASL Digit Recognition  
+✔️ Deep Learning-Based Classification  
+✔️ Image Preprocessing & Augmentation  
+✔️ Real-Time Prediction Interface
 
 ---
 
